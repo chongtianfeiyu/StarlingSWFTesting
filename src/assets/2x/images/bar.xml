@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="bar.png">
+  <SubTexture name="img_icon_darkEnergy" x="453" y="0" width="33" height="51"/>
+  <SubTexture name="img_icon_darkExp" x="404" y="0" width="47" height="49"/>
+  <SubTexture name="s9_bar_energy" x="202" y="202" width="200" height="200"/>
+  <SubTexture name="s9_bar_experience" x="202" y="0" width="200" height="200"/>
+  <SubTexture name="s9_panel_genericDark" x="0" y="0" width="200" height="204"/>
+  <SubTexture name="s9_panel_genericHighlight" x="0" y="206" width="200" height="200"/>
+</TextureAtlas>
